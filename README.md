@@ -11,7 +11,7 @@
 
 *Bir atlasın kayıp sayfalarını bulmak için yapay zekânın dünyasını oynayarak keşfet.*
 
-![L’AI’brary: Evrenlerin Muhafızı — Oyun Tanıtım Afişi](assets/afis.png)
+![L’AI’brary: Evrenlerin Muhafızı — Oyun Tanıtım Afişi]([assets/afis.png](https://github.com/ayhanbzkrt/laibrary/blob/main/L%E2%80%99AI%E2%80%99BRARY_%20Evrenlerin%20Muhaf%C4%B1z%C4%B1.png))
 
 **[L’AI’brary Öğrenme Portalı](https://ayhanbzkrt.github.io/yzevreni/)** · **[GitHub](https://github.com/ayhanbzkrt)** · **[Kitapyurdu](https://www.kitapyurdu.com/yazar/ayhan-bozkurt/260288.html)**
 
